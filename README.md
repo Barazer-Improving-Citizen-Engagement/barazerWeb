@@ -1,6 +1,6 @@
 This is a simple documentation for the Barazer Web app
 ## Getting Started
-## Welcome to Barazer
+## Welcome to Barazer ...fork/clone the master branch
 ## Empowering Citizen Engagement
 First, run the development server:
 
